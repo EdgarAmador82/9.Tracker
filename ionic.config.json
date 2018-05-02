@@ -1,0 +1,8 @@
+{
+  "name": "9.Tracker",
+  "app_id": "4ad215f9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
